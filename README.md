@@ -4,4 +4,4 @@ In this scenario, a robot is tasked with locating a lost USSR submarine. Using a
 
 Report includes all statistical aspects of the model as well test of the model at the very end.
 
-
+![Test run](Example/test_run.png)
